@@ -1,0 +1,30 @@
+<component name="libraryTable">
+  <library name="annotations-api">
+    <CLASSES>
+      <root url="jar://D:/Tomcat/profile/apache8.5.55/lib/annotations-api.jar!/" />
+      <root url="jar://D:/Tomcat/profile/apache8.5.55/lib/tomcat-jni.jar!/" />
+      <root url="jar://D:/Tomcat/profile/apache8.5.55/lib/catalina-ant.jar!/" />
+      <root url="jar://D:/Tomcat/profile/apache8.5.55/lib/catalina-tribes.jar!/" />
+      <root url="jar://D:/Tomcat/profile/apache8.5.55/lib/catalina-storeconfig.jar!/" />
+      <root url="jar://D:/Tomcat/profile/apache8.5.55/lib/el-api.jar!/" />
+      <root url="jar://D:/Tomcat/profile/apache8.5.55/lib/tomcat-util-scan.jar!/" />
+      <root url="jar://D:/Tomcat/profile/apache8.5.55/lib/jsp-api.jar!/" />
+      <root url="jar://D:/Tomcat/profile/apache8.5.55/lib/catalina.jar!/" />
+      <root url="jar://D:/Tomcat/profile/apache8.5.55/lib/catalina-ha.jar!/" />
+      <root url="jar://D:/Tomcat/profile/apache8.5.55/lib/tomcat-util.jar!/" />
+      <root url="jar://D:/Tomcat/profile/apache8.5.55/lib/tomcat-jdbc.jar!/" />
+      <root url="jar://D:/Tomcat/profile/apache8.5.55/lib/ecj-4.6.3.jar!/" />
+      <root url="jar://D:/Tomcat/profile/apache8.5.55/lib/jasper.jar!/" />
+      <root url="jar://D:/Tomcat/profile/apache8.5.55/lib/jasper-el.jar!/" />
+      <root url="jar://D:/Tomcat/profile/apache8.5.55/lib/websocket-api.jar!/" />
+      <root url="jar://D:/Tomcat/profile/apache8.5.55/lib/tomcat-websocket.jar!/" />
+      <root url="jar://D:/Tomcat/profile/apache8.5.55/lib/jaspic-api.jar!/" />
+      <root url="jar://D:/Tomcat/profile/apache8.5.55/lib/servlet-api.jar!/" />
+      <root url="jar://D:/Tomcat/profile/apache8.5.55/lib/tomcat-api.jar!/" />
+      <root url="jar://D:/Tomcat/profile/apache8.5.55/lib/tomcat-coyote.jar!/" />
+      <root url="jar://D:/Tomcat/profile/apache8.5.55/lib/tomcat-dbcp.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

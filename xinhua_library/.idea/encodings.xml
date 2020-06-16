@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding" defaultCharsetForPropertiesFiles="GBK">
+    <file url="file://$PROJECT_DIR$/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java/cn/xh/dao/OrdetrDao.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java/cn/xh/dao/impl/ClientDaoImpl.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java/cn/xh/dao/impl/ManagerDaoImpl.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java/cn/xh/dao/impl/OrderDaoImpl.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java/cn/xh/domain/Administrator.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java/cn/xh/domain/Book.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java/cn/xh/domain/Category.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java/cn/xh/domain/Favorite.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java/cn/xh/domain/Order.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java/cn/xh/domain/Orderitem.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java/cn/xh/domain/User.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java/cn/xh/service/OrderService.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java/cn/xh/service/impl/OrderServiceImpl.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java/cn/xh/util/JDBCUtil.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java/cn/xh/web/controller/ClientServlet.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java/cn/xh/web/controller/ManagerServlet.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java/cn/xh/web/controller/OrderServlet.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java/cn/xh/web/formbean/Cart.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java/cn/xh/web/formbean/CartItem.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/webapp/META-INF" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/lib" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/lib/jstl.jar" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/lib/standard.jar" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/webapp/css" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/webapp/favorite.jsp" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/webapp/fonts" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/webapp/footer.jsp" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/webapp/fraheader.jsp" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/webapp/header.jsp" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/webapp/header1.jsp" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/webapp/img" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/webapp/img/logo.jpg" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/webapp/img/logo1.jpg" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/webapp/img/logo2.jpg" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/webapp/index.jsp" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/webapp/js" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/webapp/manager" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/webapp/message.jsp" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/webapp/order.jsp" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/webapp/particulars.jsp" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/webapp/person" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/webapp/personalCenter.jsp" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/webapp/showBook.jsp" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/webapp/showCart.jsp" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/webapp/test.jsp" charset="UTF-8" />
+    <file url="PROJECT" charset="GBK" />
+  </component>
+</project>
